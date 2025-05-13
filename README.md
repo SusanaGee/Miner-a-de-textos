@@ -25,3 +25,5 @@ A lo largo del curso cubrimos conceptos clave y aplicamos técnicas esenciales p
 📌 Detecta tripletas Sujeto–Verbo–Objeto para descomponer ideas clave y entender mejor el significado oculto de los textos.
 
 ---
+
+👉 **¡Te invito a hacer clic en el branch `master` y comenzar esta nueva aventura!** 🌟
